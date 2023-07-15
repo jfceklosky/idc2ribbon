@@ -13,3 +13,17 @@ Add the IDC 20 pin male connector and male pins (follow the direction on the PCB
 
 The following pins from DigiKey can be used:
   https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/9103-0-00-80-00-00-08-0/7322902
+
+# Board Images
+
+**2D**
+
+![idc20 2d_image](images/idc2ribbon.png)
+
+**3D**
+
+![idc20_image](images/idc2ribbon-3d.png)
+ 
+
+
+  
