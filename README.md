@@ -1,6 +1,5 @@
 # idc2ribbon
-PCB for Atari ST DB-19 to IDC-20 (same as Ultrasatan adapter)
-This PCB along with a 20 pin ribbon cable can be used with the Ultrsatan found here:
+PCB for Atari ST DB-19 to IDC-20 (same as Ultrasatan adapter).  This PCB along with a 20 pin ribbon cable can be used with the Ultrsatan found here:
   https://lotharek.pl/productdetail.php?id=48
 
 # Details
