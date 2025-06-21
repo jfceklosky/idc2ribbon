@@ -12,7 +12,7 @@ The gerbers directory includes the generated set of gerbers for the various vers
 Add the IDC 20 pin male connector and male pins (follow the direction on the PCB board).
 
 The following pins from DigiKey can be used:
-  https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/9103-0-00-80-00-00-08-0/7322902
+  https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/3149-2-00-01-00-00-08-0/436968
 
 # Board Images
 
